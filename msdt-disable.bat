@@ -1,5 +1,5 @@
 @echo off
-set "version=1.0.0"
+set "version=1.0.1"
 
 net session >nul 2>&1
 if %errorlevel% == 0 (goto menu)
@@ -75,7 +75,7 @@ echo.
 echo [1] Try again (RECOMMENDED)
 echo [2] Abort the process
 echo.
-choice /n /c 123 /m "Your choice: "
+choice /n /c 12 /m "Your choice: "
 if %errorlevel% == 1 (cls&echo %header%&goto next)
 if %errorlevel% == 2 (cls&exit /b)
 
