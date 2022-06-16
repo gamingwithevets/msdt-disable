@@ -1,4 +1,4 @@
-**NOTE**: This tool is now **obsolete**! [The Follina exploit is now fixed as of June 14, 2022.](https://www.bleepingcomputer.com/news/security/microsoft-patches-actively-exploited-follina-windows-zero-day/)  
+**NOTE**: This tool is now **obsolete**! [The Follina exploit is now **fixed** as of June 14, 2022.](https://www.bleepingcomputer.com/news/security/microsoft-patches-actively-exploited-follina-windows-zero-day/)  
 Which means you can now enable the MSDT protocol again... if you still have the backup .reg file, of course.
 
 The **MSDT Protocol Disabler** is a tool that disables the MSDT protocol (`ms-msdt://`).  
